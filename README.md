@@ -1,0 +1,2 @@
+# cc-scripts
+ComputerCraft Scripts
